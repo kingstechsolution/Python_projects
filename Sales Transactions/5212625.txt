@@ -1,0 +1,19 @@
+
+	Super Marche Kado Bonapriso.
+	Phone No. 680-305-815, Douala, Cameroon.
+===============================================
+Customer Name: King
+Telephone No.: 7869048343
+Invoice No. 5212625			Date: 05/12/2023
+===============================================
+ Product Name			Qty	Price
+=============================================== 
+        
+ iPhone 13 Pro Max			1	XAF.500000.0
+===============================================
+Bill Amount				XAF.500000.0
+Discount				XAF.25000.0
+Net Pay			        XAF.475000.0
+===============================================
+
+        

@@ -1,0 +1,20 @@
+
+	Super Marche Kado Bonapriso.
+	Phone No. 680-305-815, Douala, Cameroon.
+===============================================
+Customer Name: Okwy
+Telephone No.: 67749879
+Invoice No. 5215651			Date: 05/12/2023
+===============================================
+ Product Name			Qty	Price
+=============================================== 
+        
+ 33 Export			12	XAF.7200.0
+ Samsung S22 			1	XAF.300000.0
+===============================================
+Bill Amount				XAF.307200.0
+Discount				XAF.15360.0
+Net Pay			        XAF.291840.0
+===============================================
+
+        
